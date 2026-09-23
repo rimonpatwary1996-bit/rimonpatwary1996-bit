@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Md Rimon Patwary 👋
 
-<!--
-**rimonpatwary1996-bit/rimonpatwary1996-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Botany Graduate | GIS & Spatial Analyst**  
+Specializing in Environmental Research, Spatial Analysis & Global Health Data
 
-Here are some ideas to get you started:
+- 🔭 Currently working on GIS-based spatial analysis and environmental mapping projects
+- 🌱 Learning advanced Remote Sensing, Python for Geospatial & QGIS automation
+- 💼 Open to opportunities in GIS, Environmental Research & Spatial Data Analysis
+- 📍 Based in Dhaka, Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+`QGIS` `Spatial Analysis` `Remote Sensing` `Cartography` `GIS Mapping` `Data Analysis`
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/md-rimon-patwary)
